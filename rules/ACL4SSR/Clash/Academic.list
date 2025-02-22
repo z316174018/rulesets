@@ -1,0 +1,26 @@
+# 内容：学术网站列表
+# 更新：2025-02-22 16:31:00
+
+# 知网
+DOMAIN-SUFFIX, cnki.net
+
+# 中文社会科学引文索引数据库
+DOMAIN-SUFFIX, cssci.nju.edu.cn
+
+# CSCD中国科学引文数据库
+DOMAIN-SUFFIX, clarivate.com
+
+# 外文数据库
+DOMAIN-SUFFIX, wiley.com
+DOMAIN-SUFFIX, sciencedirect.com
+DOMAIN-SUFFIX, elsevier.com
+DOMAIN-SUFFIX, rsc.org
+DOMAIN-SUFFIX, iop.org
+DOMAIN-SUFFIX, nature.com
+DOMAIN-SUFFIX, acm.org
+DOMAIN-SUFFIX, science.org
+DOMAIN-KEYWORD, getgrass
+DOMAIN-KEYWORD, acs
+DOMAIN-KEYWORD, mdpi
+DOMAIN-KEYWORD, ieee
+DOMAIN-KEYWORD, springer
